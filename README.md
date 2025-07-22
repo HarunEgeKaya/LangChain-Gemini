@@ -1,5 +1,5 @@
-# LangChain---Gemini
-LangChain ile Gemini bağlantısı python ile
+#Bu projede gemini kullanılmaktadır.
+#Python sanal makina kurmanız gerekmektedir. python -m venv .venv
 
 GEMINI_API_KEY="Your key"
 LANGCHAIN_API_KEY="Your key"
